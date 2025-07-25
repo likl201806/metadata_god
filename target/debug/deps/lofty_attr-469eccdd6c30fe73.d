@@ -1,0 +1,10 @@
+/Users/likonglin/flutterpj/metadata_god/target/debug/deps/liblofty_attr-469eccdd6c30fe73.dylib: /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lib.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/attribute.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/internal.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lofty_file.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lofty_tag.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/util.rs
+
+/Users/likonglin/flutterpj/metadata_god/target/debug/deps/lofty_attr-469eccdd6c30fe73.d: /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lib.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/attribute.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/internal.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lofty_file.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lofty_tag.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/util.rs
+
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lib.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/attribute.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/internal.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lofty_file.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/lofty_tag.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/lofty_attr-0.11.1/src/util.rs:
