@@ -1,0 +1,10 @@
+/Users/likonglin/Downloads/metadata_god-1.0.0/target/debug/deps/libogg_pager-031a715ca34ff7c7.rmeta: /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/lib.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/crc.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/error.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/header.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/packets.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/paginate.rs
+
+/Users/likonglin/Downloads/metadata_god-1.0.0/target/debug/deps/ogg_pager-031a715ca34ff7c7.d: /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/lib.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/crc.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/error.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/header.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/packets.rs /Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/paginate.rs
+
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/lib.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/crc.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/error.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/header.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/packets.rs:
+/Users/likonglin/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/ogg_pager-0.6.1/src/paginate.rs:
