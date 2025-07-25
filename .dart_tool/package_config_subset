@@ -80,8 +80,8 @@ file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-2.0.3/
 file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-2.0.3/lib/
 flutter_rust_bridge
 3.4
-file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/flutter_rust_bridge-2.7.0/
-file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/flutter_rust_bridge-2.7.0/lib/
+file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/flutter_rust_bridge-2.11.1/
+file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/flutter_rust_bridge-2.11.1/lib/
 frontend_server_client
 3.0
 file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/frontend_server_client-4.0.0/
@@ -290,10 +290,6 @@ yaml_edit
 3.1
 file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/yaml_edit-2.2.2/
 file:///Users/likonglin/.pub-cache/hosted/pub.flutter-io.cn/yaml_edit-2.2.2/lib/
-metadata_god
-3.0
-file:///Users/likonglin/Downloads/metadata_god-1.0.0/
-file:///Users/likonglin/Downloads/metadata_god-1.0.0/lib/
 _macros
 3.4
 file:///Users/likonglin/flutter/bin/cache/dart-sdk/pkg/_macros/
@@ -322,4 +318,8 @@ integration_test
 3.2
 file:///Users/likonglin/flutter/packages/integration_test/
 file:///Users/likonglin/flutter/packages/integration_test/lib/
+metadata_god
+3.0
+file:///Users/likonglin/flutterpj/metadata_god/
+file:///Users/likonglin/flutterpj/metadata_god/lib/
 2

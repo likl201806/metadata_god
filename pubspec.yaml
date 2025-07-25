@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   ffi: ^2.0.2
-  flutter_rust_bridge: 2.7.0
+  flutter_rust_bridge: 2.11.1
   uuid: ^4.4.0
   meta: ^1.11.0
 
@@ -28,13 +28,5 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        ffiPlugin: true
       ios:
-        ffiPlugin: true
-      linux:
-        ffiPlugin: true
-      macos:
-        ffiPlugin: true
-      windows:
         ffiPlugin: true
