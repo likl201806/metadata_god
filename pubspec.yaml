@@ -3,6 +3,9 @@ description: Plugin for retrieving and writing audio tags/metadata from audio fi
 version: 1.0.0
 repository: https://github.com/KRTirtho/frb_plugins/tree/main/packages/metadata_god
 
+platforms:
+  ios:
+
 environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.0.0"
@@ -28,13 +31,5 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      android:
-        ffiPlugin: true
       ios:
-        ffiPlugin: true
-      linux:
-        ffiPlugin: true
-      macos:
-        ffiPlugin: true
-      windows:
         ffiPlugin: true
